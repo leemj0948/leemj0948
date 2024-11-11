@@ -2,7 +2,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hi%20I'm%20MyungJin&fontSize=90)
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Myungjin&show_icons=true&theme=radical" alt="Anurag's GitHub stats"/>&nbsp
-  <img src="https://github-readme-stats.vercel.app/api?username=Myungjin&show_icons=true&theme=radical" alt="Top Langs"/>&nbsp
+  <img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Myungjin&layout=compact&theme=nord&hide_border=true" />&nbsp
 </div>
 <!--
 **leemj0948/leemj0948** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
