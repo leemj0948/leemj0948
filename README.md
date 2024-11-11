@@ -1,5 +1,6 @@
 ## Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=capsule%20render&fontSize=90&text=Hi%20I%20am%20MyungJin)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hi%20I'm%20Myungjin&fontSize=90)
+
 <!--
 **leemj0948/leemj0948** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
