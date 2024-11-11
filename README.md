@@ -1,6 +1,7 @@
 ## Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hi%20I'm%20Myungjin&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hi%20I'm%20MyungJin&fontSize=90)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Myungjin&show_icons=true&theme=radical)
 <!--
 **leemj0948/leemj0948** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
