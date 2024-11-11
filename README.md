@@ -1,4 +1,4 @@
-## Hi there 👋
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hi%20I'm%20MyungJin&fontSize=90)
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Myungjin&show_icons=true&theme=radical" alt="Anurag's GitHub stats"/>&nbsp
